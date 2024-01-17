@@ -1,0 +1,15 @@
+C:\Users\zivog\OneDrive\Рабочий стол\ос\ОС3.2\ОС3.2\obj\Debug\net7.0\ОС3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zivog\OneDrive\Рабочий стол\ос\ОС3.2\ОС3.2\obj\Debug\net7.0\ОС3.2.AssemblyInfoInputs.cache
+C:\Users\zivog\OneDrive\Рабочий стол\ос\ОС3.2\ОС3.2\obj\Debug\net7.0\ОС3.2.AssemblyInfo.cs
+C:\Users\zivog\OneDrive\Рабочий стол\ос\ОС3.2\ОС3.2\obj\Debug\net7.0\ОС3.2.csproj.CoreCompileInputs.cache
+C:\Users\zivog\OneDrive\Рабочий стол\ос\ОС3.2\ОС3.2\bin\Debug\net7.0\ОС3.2.exe
+C:\Users\zivog\OneDrive\Рабочий стол\ос\ОС3.2\ОС3.2\bin\Debug\net7.0\ОС3.2.deps.json
+C:\Users\zivog\OneDrive\Рабочий стол\ос\ОС3.2\ОС3.2\bin\Debug\net7.0\ОС3.2.runtimeconfig.json
+C:\Users\zivog\OneDrive\Рабочий стол\ос\ОС3.2\ОС3.2\bin\Debug\net7.0\ОС3.2.dll
+C:\Users\zivog\OneDrive\Рабочий стол\ос\ОС3.2\ОС3.2\bin\Debug\net7.0\ОС3.2.pdb
+C:\Users\zivog\OneDrive\Рабочий стол\ос\ОС3.2\ОС3.2\obj\Debug\net7.0\ОС3.2.dll
+C:\Users\zivog\OneDrive\Рабочий стол\ос\ОС3.2\ОС3.2\obj\Debug\net7.0\refint\ОС3.2.dll
+C:\Users\zivog\OneDrive\Рабочий стол\ос\ОС3.2\ОС3.2\obj\Debug\net7.0\ОС3.2.pdb
+C:\Users\zivog\OneDrive\Рабочий стол\ос\ОС3.2\ОС3.2\obj\Debug\net7.0\ОС3.2.genruntimeconfig.cache
+C:\Users\zivog\OneDrive\Рабочий стол\ос\ОС3.2\ОС3.2\obj\Debug\net7.0\ref\ОС3.2.dll
+C:\Users\zivog\OneDrive\Рабочий стол\ос\ОС3.2\ОС3.2\obj\Debug\net7.0\ОС3.2.csproj.AssemblyReference.cache
